@@ -1,0 +1,18 @@
+{
+  "version": "1",
+  "name": "raexchange",
+  "abis": {
+    "ra": {
+      "path": "./abi.json"
+    }
+  },
+  "chains": ["frax-mainnet"],
+  "instances": [
+    {
+      "abi": "ra",
+      "address": "0xAAA78E8C4241990B4ce159E105dA08129345946A",
+      "startBlock": 1352718,
+      "chain": "frax-mainnet"
+    }
+  ]
+}
